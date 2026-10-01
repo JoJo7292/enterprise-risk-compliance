@@ -41,3 +41,4 @@ To mature the organizational security posture, the engineering team will execute
 
 ### Phase 3: Active Monitoring (90+ Days)
 - Integrate custom log parsing scripts and central telemetry ingestion pipelines into a live Security Operations Center (SOC) dashboard tracking real-time risk scores.
+- 
